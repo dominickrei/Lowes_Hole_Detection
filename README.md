@@ -17,3 +17,9 @@ We were tasked by Lowes to find holes on store shelves using computer vision tec
 # Downloading Data
 You can download the **Data** and **Our Trained Model** from https://drive.google.com/drive/u/2/folders/147DjN6o9ZpYpQJ_L-9829jHWJxIh9pKg
 
+# Running the model
+Generating results using our model is simple:
+* Download the data and model above
+* Navigate to our [Google Colab notebook](https://colab.research.google.com/drive/1jT3Gm2nFUmT82c0mXOUnEgEWp4QvMH4p?usp=sharing)
+* Follow the instructions in the notebook on where to put the data
+* Run the notebook
